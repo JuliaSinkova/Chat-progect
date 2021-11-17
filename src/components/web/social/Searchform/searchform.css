@@ -1,0 +1,22 @@
+.search-form{
+    background-color:  #F8F9FB;
+    height: 50px;
+    padding: 20px;
+    border-radius: 25px;
+
+
+
+}
+
+.search-form input{
+    margin-right: 200px;
+    margin-top: 70px;
+    background-color:  #F8F9FB;
+    border-radius: 25px;
+}
+.search-form .icon{
+    margin-left: 200px;
+    margin-top: 77px;
+    color: #0275d8;
+    font-size: 25px;
+}

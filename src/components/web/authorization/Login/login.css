@@ -1,0 +1,7 @@
+.form-container{
+    width: 40%;
+    margin: 50px auto;
+}
+.error{
+    color: red;
+}
